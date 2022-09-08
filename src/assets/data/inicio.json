@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "alumno",
+        "url": "/alumno"
+    },
+    {
+        "nombre": "jefe de departamento",
+        "url": "/jefe de departamento"
+    }
+
+]
